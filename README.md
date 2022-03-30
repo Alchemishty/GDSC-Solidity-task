@@ -192,4 +192,10 @@ Now lets try dividing by 0. It will throw an error. If you notice the error it s
 ![image](./Images/divide.png)
 
 All the other functions work similar to the `add` function.
-Well that was it folks. Pat yourself on the back if you stuck through the entire tutorial. You have successfully programmed and deployed your smart contract. With this you can start your blockchain journey and make a name for yourself.
+Well that was it folks. Pat yourself on the back if you stuck through the entire tutorial. You have successfully programmed and deployed your smart contract. 
+
+## Your Task Ahead
+
+Our calculator right now is pretty basic and doesn't really have any fancy functions. Your task, as a budding blockchain developer, is to introduce one such function that leverages the power of smart-contracts and presents one reason for a calculator to be deployed over the blockchain. Maybe this calculator stores all your addition history, or keeps track of the total accounting you've ever made since the start of a month. I'll leave the creative part upto you.
+
+Good luck and have fun!
